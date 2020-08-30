@@ -1,0 +1,10 @@
+
+NAME - Alexander Balandin
+ID - 132145194
+EMAIL - abalandin@myseneca.ca
+DATE - 2020.08.02
+
+
+      To begin with, the main point of this final project was to see inheritance and polymorphism in action. We started from the base class ReadWritable then the class Vehicle was created as a derived class from ReadWritable. The hierarchy ended in two derive classes Car and Motorcycle from the Vehicle class. In the base class, we created pure virtual functions to read and write in order to the derived classes can overload them.
+	In Parking class was created an array of pointers to Vehicle class in order to create objects of the base class. According to the task, I had to create objects of Car and Motorcycle classes, which are the derived classes. This hierarchy shows how polymorphism works. To create an object of Car class, I do not need to know all the inheritance of the code to be able to work with it. Polymorphism hides it. In addition, I worked with files, so my program is able to store and load data from a file. 
+	Overall, the final project was not overly complicated, and it helps to understand the object-oriented principals. My opinion that the first milestone was the most difficult because I did not face any problem with the other milestones. Marvellous, that we start to learn everything from the basics. I have a friend that learns Python as a first language, and he has gaps in knowledge. Therefore, when he started to learn Java, he did not understand object-oriented principals. As my previous professor told me, if you are good at C, you will be good at any programming language.

@@ -1,0 +1,14 @@
+In line number 494 of your output:
+The output should be:
+Content of ParkingData.csv after the program exits
+^
+But your output is: 
+
+ ^
+
+Unmatched character details:
+The character in column 2 is supposed to be:
+  [C] ASCII code(67)
+but you printed
+  [Empty Line] ASCII code(0)
+
